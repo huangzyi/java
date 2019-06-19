@@ -1,0 +1,4 @@
+Name Sex Age Salary
+Jack F 30 4000.00
+Rose M 28 3800.00
+Max F 32 4200.00 
